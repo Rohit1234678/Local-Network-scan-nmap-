@@ -1,0 +1,8 @@
+# Nmap 7.92 scan initiated Mon Oct 20 19:46:56 2025 as: nmap -sS -oA nmap_host_output.xml 10.0.2.15/24
+Host: 10.0.2.2 ()	Status: Up
+Host: 10.0.2.2 ()	Ports: 	Ignored State: filtered (1000)
+Host: 10.0.2.3 ()	Status: Up
+Host: 10.0.2.3 ()	Ports: 53/open/tcp//domain///	Ignored State: filtered (999)
+Host: 10.0.2.15 ()	Status: Up
+Host: 10.0.2.15 ()	Ports: 22/open/tcp//ssh///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///	Ignored State: closed (997)
+# Nmap done at Mon Oct 20 19:47:00 2025 -- 256 IP addresses (3 hosts up) scanned in 3.38 seconds
